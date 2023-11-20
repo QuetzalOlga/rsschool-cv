@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/QuetzalOlga/rsschool-cv.git
+https://quetzalolga.github.io/rsschool-cv/cv
