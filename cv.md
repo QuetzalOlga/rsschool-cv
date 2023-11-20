@@ -63,21 +63,21 @@ I read books on algorithms, js, and marketing on my own.
 # Experience
 
 
-•	Testing the correct operation of the site.
-•	Correction of layout errors.
-•	Adding blocks, pages, active elements to sites.
-•	Administration.
-•	SEO.
-•	Copywriting.
+* Testing the correct operation of the site.
+* Correction of layout errors.
+* Adding blocks, pages, active elements to sites.
+*Administration.
+*SEO.
+*Copywriting.
 
 
 # Languages
 
 
-•	Belorussian
-•	Polish
-•	Russian
-•	English
+* Belorussian
+* Polish
+* Russian
+* English
 
 
 # English
