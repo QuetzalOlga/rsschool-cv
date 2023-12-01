@@ -81,6 +81,6 @@ I read books on algorithms, js, and marketing on my own.
 
 
 # English
-![Language school I Speak](https://github.com/QuetzalOlga/rsschool-cv/blob/gh-pages/a1.jpg)
+![Language school I Speak](/rsschool-cv/blob/gh-pages/a1.jpg)
 
 
